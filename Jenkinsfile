@@ -155,7 +155,7 @@ pipeline {
 
         success {
 
-            echo '¡Despliegue exitoso!'
+            echo '¡Despliegue exitoso !'
 
         }
 
