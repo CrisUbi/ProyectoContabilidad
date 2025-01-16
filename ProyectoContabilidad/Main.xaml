@@ -96,7 +96,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ueab:WriteCellX Cell="[Excel.Sheet(&quot;Hoja1&quot;).Cell(&quot;B2&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="434,182" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[&quot;CAMPO&quot;]" />
+            <ueab:WriteCellX Cell="[Excel.Sheet(&quot;Hoja1&quot;)]" DisplayName="Escribir celda" sap:VirtualizedContainerService.HintSize="434,182" sap2010:WorkflowViewState.IdRef="WriteCellX_1" Value="[&quot;CAMPO&quot;]" />
           </Sequence>
         </ActivityAction>
       </ueab:ExcelApplicationCard.Body>
